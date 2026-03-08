@@ -65,13 +65,6 @@ Key analyses performed:
 - Content addition increased significantly after 2015.
 - Most titles are rated for mature audiences.
 
-## Project Structure
-Amazon-Prime-EDA
-│
-├── Amazon_Prime_EDA.ipynb
-├── amazon_prime_titles.csv
-└── README.md
-
 ## Future Improvements
 - Perform sentiment analysis on reviews
 - Build a recommendation system
