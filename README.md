@@ -78,7 +78,7 @@ Amazon-Prime-EDA
 - Create an interactive dashboard in Power BI
 
 ##Chart
-[Percentage of Movies vs TV Shows](percentage_movies_vs_tvshows.png)
+![Percentage of Movies vs TV Shows](percentage_movies_vs_tvshows.png)
 
 ## Author
 Santanu Jana
