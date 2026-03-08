@@ -12,8 +12,8 @@ This project analyzes the Amazon Prime Movies and TV Shows dataset to explore co
 
 ## Dataset
 Source: 
- - https://drive.google.com/file/d/1WbqSLOYIIOYVYxRvfmDUX3lBVvZ3fjtc/view?usp=sharing
- - https://drive.google.com/file/d/119vSf0U5goTWYtqo6cHUdbZAYrQ6Z83D/view?usp=sharing
+ - credits dataset - https://drive.google.com/file/d/1WbqSLOYIIOYVYxRvfmDUX3lBVvZ3fjtc/view?usp=sharing
+ - titles dataset - https://drive.google.com/file/d/119vSf0U5goTWYtqo6cHUdbZAYrQ6Z83D/view?usp=sharing
 
 Main Columns:
 - id
