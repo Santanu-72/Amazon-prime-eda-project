@@ -77,7 +77,8 @@ Amazon-Prime-EDA
 - Build a recommendation system
 - Create an interactive dashboard in Power BI
 
-##Chart
+## Movies vs TV Shows Distribution
+
 ![Percentage of Movies vs TV Shows](percentage_movies_vs_tvshows.png)
 
 ## Author
