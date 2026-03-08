@@ -16,7 +16,6 @@ Source:
  - df2_path = '/content/drive/MyDrive/python projects/working projects/EDA project/credits.csv'
 
 Main Columns:
-DF1 - 
 - id
 - title
 - type
@@ -77,6 +76,9 @@ Amazon-Prime-EDA
 - Perform sentiment analysis on reviews
 - Build a recommendation system
 - Create an interactive dashboard in Power BI
+
+##Chart
+[Percentage of Movies vs TV Shows](percentage_movies_vs_tvshows.png)
 
 ## Author
 Santanu Jana
