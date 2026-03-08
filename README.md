@@ -1,4 +1,4 @@
-# Amazon Prime Movies and TV Shows Data Analysis
+# Project Name - Amazon Prime Exploratory Data Analysis
 
 ## Project Overview
 This project analyzes the Amazon Prime Movies and TV Shows dataset to explore content distribution, genre trends, ratings, and release patterns. The goal is to extract useful insights using data analysis and visualization techniques.
@@ -11,17 +11,27 @@ This project analyzes the Amazon Prime Movies and TV Shows dataset to explore co
 - Find top producing countries
 
 ## Dataset
-Source: Amazon Prime Movies and TV Shows Dataset
+Source: 
+ - df1_path = '/content/drive/MyDrive/python projects/working projects/EDA project/titles.csv'
+ - df2_path = '/content/drive/MyDrive/python projects/working projects/EDA project/credits.csv'
 
 Main Columns:
-- Title
-- Director
-- Cast
-- Country
-- Release Year
-- Rating
-- Genre
-- Duration
+DF1 - 
+- id
+- title
+- type
+- description
+- release_year
+- age_certification
+- runtime
+- genres
+- production_countries
+- seasons
+- imdb_id
+- imdb_score
+- imdb_votes
+- tmdb_popularity
+- tmdb_score Duration
 
 ## Tools and Technologies
 - Python
