@@ -32,6 +32,11 @@ DF1 -
 - imdb_votes
 - tmdb_popularity
 - tmdb_score Duration
+- person_id
+- id
+- name
+- character
+- role
 
 ## Tools and Technologies
 - Python
