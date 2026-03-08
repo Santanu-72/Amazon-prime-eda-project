@@ -12,8 +12,8 @@ This project analyzes the Amazon Prime Movies and TV Shows dataset to explore co
 
 ## Dataset
 Source: 
- - df1_path = '/content/drive/MyDrive/python projects/working projects/EDA project/titles.csv'
- - df2_path = '/content/drive/MyDrive/python projects/working projects/EDA project/credits.csv'
+ - https://drive.google.com/file/d/1WbqSLOYIIOYVYxRvfmDUX3lBVvZ3fjtc/view?usp=sharing
+ - https://drive.google.com/file/d/119vSf0U5goTWYtqo6cHUdbZAYrQ6Z83D/view?usp=sharing
 
 Main Columns:
 - id
